@@ -1,3 +1,4 @@
 This is sample file for git demo.
 Updating file to perform pull request.
 Demo line.
+checking diff command.
